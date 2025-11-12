@@ -3,9 +3,9 @@ import profile from "../assets/image.jpg";
 
 export default function Hero() {
   return (
-    <section className="flex flex-col md:flex-row items-center justify-center h-screen text-center md:text-left px-6 bg-linear-to-b from-gray-900 to-gray-950">
+    <section className="flex flex-col md:flex-row items-center justify-center h-screen text-center md:text-left  bg-linear-to-b from-gray-900 to-gray-950 px-22">
       {/* Left: Text */}
-      <div className="md:w-1/2 space-y-4 ml-10">
+      <div className="md:w-1/2 space-y-4">
         <h2 className="text-4xl md:text-6xl font-bold text-blue-400 animate-fadeIn">
           Hi, I'm Harsh 👋
         </h2>
