@@ -7,7 +7,7 @@ const projects = [
     description:
       "A collaborative travel platform where users can create, explore, and join tours — built with React and Java Spring Boot.",
     tech: ["React", "Tailwind CSS", "Spring Boot", "MySQL"],
-    link: "#",
+    link: "https://691d716b9224470ed257eacb--funny-sunflower-106d4d.netlify.app/",
     icon: <Globe className="text-blue-400" size={32} />,
   },
   {
