@@ -7,25 +7,25 @@ const projects = [
     description:
       "A collaborative travel platform where users can create, explore, and join tours — built with React and Java Spring Boot.",
     tech: ["React", "Tailwind CSS", "Spring Boot", "MySQL"],
-    link: "https://691d716b9224470ed257eacb--funny-sunflower-106d4d.netlify.app/",
+    link: "https://funny-sunflower-106d4d.netlify.app/",
     icon: <Globe className="text-blue-400" size={32} />,
   },
-  {
-    name: "DevConnect 💬",
-    description:
-      "A social networking app for developers with profile pages, post feeds, and theme switching — built entirely in React.",
-    tech: ["React", "Context API", "Vite", "CSS Animations"],
-    link: "#",
-    icon: <Code2 className="text-blue-400" size={32} />,
-  },
-  {
-    name: "Expense Tracker 💸",
-    description:
-      "A smart way to manage expenses and visualize spending, powered by MockAPI.io for backend simulation.",
-    tech: ["React", "MockAPI.io", "jsPDF", "Chart.js"],
-    link: "#",
-    icon: <Rocket className="text-blue-400" size={32} />,
-  },
+  // {
+  //   name: "DevConnect 💬",
+  //   description:
+  //     "A social networking app for developers with profile pages, post feeds, and theme switching — built entirely in React.",
+  //   tech: ["React", "Context API", "Vite", "CSS Animations"],
+  //   link: "#",
+  //   icon: <Code2 className="text-blue-400" size={32} />,
+  // },
+  // {
+  //   name: "Expense Tracker 💸",
+  //   description:
+  //     "A smart way to manage expenses and visualize spending, powered by MockAPI.io for backend simulation.",
+  //   tech: ["React", "MockAPI.io", "jsPDF", "Chart.js"],
+  //   link: "#",
+  //   icon: <Rocket className="text-blue-400" size={32} />,
+  // },
 ];
 
 export default function Projects() {
